@@ -4,15 +4,15 @@
 
 int main() {
 
-	PSvita* psvita[] = {
-		new PSvita(),
+	SonyConsumer* sonyConsumer[] = {
+		new SonyConsumer(),
 		new PSP(),
 		new PS4()
 	};
 
-	psvita[0]->Vita();
-	psvita[1]->Vita();
-	psvita[2]->Vita();
+	sonyConsumer[0]->Vita();
+	sonyConsumer[1]->Vita();
+	sonyConsumer[2]->Vita();
 
 	return 0;
 }

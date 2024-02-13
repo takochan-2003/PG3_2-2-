@@ -1,12 +1,12 @@
 #pragma once
 // PSvita
-class PSvita
+class SonyConsumer
 {
 public:
 
-	PSvita();
+	SonyConsumer();
 
-	~PSvita();
+	~SonyConsumer();
 
 	virtual void Vita();
 

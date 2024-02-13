@@ -1,7 +1,7 @@
 #pragma once
-#include "PSvita.h"
+#include "SonyConsumer.h"
 // ƒwƒbƒhƒzƒ“
-class PS4 : public PSvita
+class PS4 : public SonyConsumer
 {
 public:
 	PS4();

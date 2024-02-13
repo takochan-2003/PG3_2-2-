@@ -130,12 +130,12 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="PS4.cpp" />
     <ClCompile Include="PSP.cpp" />
-    <ClCompile Include="PSvita.cpp" />
+    <ClCompile Include="SonyConsumer.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PS4.h" />
     <ClInclude Include="PSP.h" />
-    <ClInclude Include="PSvita.h" />
+    <ClInclude Include="SonyConsumer.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
