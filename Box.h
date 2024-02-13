@@ -16,6 +16,7 @@ public:
 		}
 
 
+
 		if (n1 > n2) {
 			return static_cast<Type2>(n2);
 		}
