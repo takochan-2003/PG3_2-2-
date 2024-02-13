@@ -13,6 +13,7 @@ int main() {
 			"Tamachi", "Hamamatutsucho", "Shimbashi", "Yurakucho",
 	};
 
+
 	//1970
 	printf("1970”N\n");
 	for (auto itr = lst.begin(); itr != lst.end(); ++itr) {
